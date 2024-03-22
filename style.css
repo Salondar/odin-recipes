@@ -1,0 +1,10 @@
+body {
+    background-color:rgba(141, 185, 128, 0.623);
+    font-family: Georgia, sans-serif;
+    color: black;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
